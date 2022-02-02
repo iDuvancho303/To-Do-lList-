@@ -10,10 +10,29 @@
 
  #input {
     width: 200px;
-    height: 30px;
-    border: 3px solid blue
+    height: 32px;
+    border: 1px solid #gray;
+    outline: none;
+    font-size: 20px;
+    vertical-align: middle;
  }
 
- #add{
+ #add {
+     width: 50px;
+     height: 38px;
+     border: 1px solid white;
+     background-color: #000080;
+     color: white;
+     vertical-align: middle;
+     font-size: 18px;
+ }
 
+ .toDo {
+     margin-top: 20px;
+ }
+
+ .paragraph-styling {
+     margin: 0;
+     cursor: pointer;
+     font-size: 20px;
  }
