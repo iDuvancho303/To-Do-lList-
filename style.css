@@ -36,3 +36,8 @@
      cursor: pointer;
      font-size: 25px;
  }
+
+ html {
+     margin-top: 100px;
+     border: 5px solid #000080;
+ }
